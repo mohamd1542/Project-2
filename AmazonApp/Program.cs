@@ -15,13 +15,17 @@ namespace AmazonApp
                 item.ShipeProduct(customer);
             }
         }
-        private static List<Product> fillTheCart()
+        private static List<IProduct> fillTheCart()
         {
-            var card = new List<Product>
+            var card = new List<IProduct>
             {
-                new Product { Name = "How to trian your dragon " },
-                new Product { Name = "learn Csharp in 30 min " },
-                new Product { Name = "learn Sql in 30 min " }
+                new PhysicalProduct { Name = "How to trian your dragon " },
+                new PhysicalProduct { Name = "learn Csharp in 30 min " },
+                new PhysicalProduct { Name = "learn Sql in 30 min " },
+                new DigitalProduct {Name = "Empty music"},
+                new CourseProdect {Name = "learn c++ in 30 hourses"}
+               
+
             };
 
             return card;
