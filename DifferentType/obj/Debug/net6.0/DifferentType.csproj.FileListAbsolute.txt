@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\DifferentType\bin\Debug\net6.0\DifferentType.exe
+D:\source\repos\AmazonApp\DifferentType\bin\Debug\net6.0\DifferentType.deps.json
+D:\source\repos\AmazonApp\DifferentType\bin\Debug\net6.0\DifferentType.runtimeconfig.json
+D:\source\repos\AmazonApp\DifferentType\bin\Debug\net6.0\DifferentType.dll
+D:\source\repos\AmazonApp\DifferentType\bin\Debug\net6.0\DifferentType.pdb
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.AssemblyInfo.cs
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.dll
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\refint\DifferentType.dll
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.pdb
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\DifferentType.genruntimeconfig.cache
+D:\source\repos\AmazonApp\DifferentType\obj\Debug\net6.0\ref\DifferentType.dll

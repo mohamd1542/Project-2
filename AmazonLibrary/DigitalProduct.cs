@@ -14,7 +14,7 @@ namespace AmazonLibrary
         public bool IsOrderCompleted { get ; set ; }
         public string Extension { get; set; }
         public int TotalNumberOfAvailableDownloads { get; set; } = 3;
-
+        public Status Status { get; set; }
         public void ShipeProduct(Customer customer)
         {
             if (IsOrderCompleted == false)

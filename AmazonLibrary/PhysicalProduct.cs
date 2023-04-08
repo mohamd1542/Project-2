@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace AmazonLibrary
 {
-    public class PhysicalProduct : IProduct
+    public sealed class PhysicalProduct : IProduct
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public double Price { get; set; }
+        public double Price { get ; set; }
         public bool IsOrderCompleted { get; set; }
 
         public int Weight { get; set; }
