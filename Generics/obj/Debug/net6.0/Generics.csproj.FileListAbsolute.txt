@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\Generics\bin\Debug\net6.0\Generics.exe
+D:\source\repos\AmazonApp\Generics\bin\Debug\net6.0\Generics.deps.json
+D:\source\repos\AmazonApp\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\source\repos\AmazonApp\Generics\bin\Debug\net6.0\Generics.dll
+D:\source\repos\AmazonApp\Generics\bin\Debug\net6.0\Generics.pdb
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.dll
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\refint\Generics.dll
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.pdb
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+D:\source\repos\AmazonApp\Generics\obj\Debug\net6.0\ref\Generics.dll
