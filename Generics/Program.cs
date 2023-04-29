@@ -15,7 +15,12 @@
             var First = new GenericClass<int>("ten","sdsdsds ds",10);
             Console.WriteLine($"{First.Item} : {First.Name} - {First.Description}");
 
+            var genericlass = new LimitedGenericClass<ElementaryStudent>();
 
+            var firstStudent = new ElementaryStudent() { Age = 10 , FullName = "Mohamd"};
+            var secoundStudent = new ElementaryStudent() { Age = 8, FullName = "Mostafa" };
+
+            genericlass.GenericMethod(firstStudent , secoundStudent);
 
 
             //if (resalt)
@@ -23,5 +28,14 @@
             //else
             //    Console.WriteLine("Both Numbers are Not equal");
         }
+    }
+    public interface IStudents
+    {
+
+    }
+    public class ElementaryStudent:IStudents
+    {
+        public int Age { get; set; }
+        public string FullName { get; set; }
     }
  }

@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\AsyncSimple\bin\Debug\net6.0\AsyncSimple.exe
+D:\source\repos\AmazonApp\AsyncSimple\bin\Debug\net6.0\AsyncSimple.deps.json
+D:\source\repos\AmazonApp\AsyncSimple\bin\Debug\net6.0\AsyncSimple.runtimeconfig.json
+D:\source\repos\AmazonApp\AsyncSimple\bin\Debug\net6.0\AsyncSimple.dll
+D:\source\repos\AmazonApp\AsyncSimple\bin\Debug\net6.0\AsyncSimple.pdb
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.AssemblyInfo.cs
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.dll
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\refint\AsyncSimple.dll
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.pdb
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\AsyncSimple.genruntimeconfig.cache
+D:\source\repos\AmazonApp\AsyncSimple\obj\Debug\net6.0\ref\AsyncSimple.dll

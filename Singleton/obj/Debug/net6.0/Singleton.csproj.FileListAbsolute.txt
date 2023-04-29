@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\source\repos\AmazonApp\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\source\repos\AmazonApp\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\source\repos\AmazonApp\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\source\repos\AmazonApp\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\source\repos\AmazonApp\Singleton\obj\Debug\net6.0\ref\Singleton.dll

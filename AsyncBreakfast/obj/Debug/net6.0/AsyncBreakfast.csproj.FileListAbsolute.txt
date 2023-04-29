@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\AsyncBreakfast\bin\Debug\net6.0\AsyncBreakfast.exe
+D:\source\repos\AmazonApp\AsyncBreakfast\bin\Debug\net6.0\AsyncBreakfast.deps.json
+D:\source\repos\AmazonApp\AsyncBreakfast\bin\Debug\net6.0\AsyncBreakfast.runtimeconfig.json
+D:\source\repos\AmazonApp\AsyncBreakfast\bin\Debug\net6.0\AsyncBreakfast.dll
+D:\source\repos\AmazonApp\AsyncBreakfast\bin\Debug\net6.0\AsyncBreakfast.pdb
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.AssemblyInfo.cs
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.dll
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\refint\AsyncBreakfast.dll
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.pdb
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\AsyncBreakfast.genruntimeconfig.cache
+D:\source\repos\AmazonApp\AsyncBreakfast\obj\Debug\net6.0\ref\AsyncBreakfast.dll
