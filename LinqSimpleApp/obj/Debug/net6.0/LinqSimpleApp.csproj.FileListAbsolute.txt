@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\LinqSimpleApp\bin\Debug\net6.0\LinqSimpleApp.exe
+D:\source\repos\AmazonApp\LinqSimpleApp\bin\Debug\net6.0\LinqSimpleApp.deps.json
+D:\source\repos\AmazonApp\LinqSimpleApp\bin\Debug\net6.0\LinqSimpleApp.runtimeconfig.json
+D:\source\repos\AmazonApp\LinqSimpleApp\bin\Debug\net6.0\LinqSimpleApp.dll
+D:\source\repos\AmazonApp\LinqSimpleApp\bin\Debug\net6.0\LinqSimpleApp.pdb
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.AssemblyInfo.cs
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.dll
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\refint\LinqSimpleApp.dll
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.pdb
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\LinqSimpleApp.genruntimeconfig.cache
+D:\source\repos\AmazonApp\LinqSimpleApp\obj\Debug\net6.0\ref\LinqSimpleApp.dll
