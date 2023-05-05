@@ -10,9 +10,9 @@
 
             var products = GSProduct();
             
-            products = products.OrderByDescending(p => p.Name)
-                               .ThenByDescending(p => p.Price)
-                               .ToList();
+            //products = products.OrderByDescending(p => p.Name)
+            //                   .ThenByDescending(p => p.Price)
+            //                   .ToList();
 
             //products = products.Where(p => p.Price > 50 && p.Location == "Idleb").ToList();\
 
@@ -20,14 +20,42 @@
             //           where p.Location == "Idleb" && p.Price > 50
             //           select p).ToList();
 
-            var groupByLocation = products.GroupBy(p => p.Location).ToList();   
+            Console.WriteLine(products.Where(p => p.Location == "Idleb").Min(p => p.Price));
+            Console.WriteLine(products.Where(p => p.Location == "Idleb").Max(p => p.Price));
 
+
+            var groupByLocation = products.GroupBy(p => p.Location).ToList();
+
+            int[] numbers1 = { 1, 2, 3, 4, 5, 6 };
+            int[] numbers2 = { 2, 4, 7 };
+            var unionItem = numbers1.Union(numbers2);
+            var intersectItem = numbers1.Intersect(numbers2);
+            var exceptItem = numbers1.Except(numbers2);
+
+            //int result = numbers.Aggregate((a,b) => a * b);
+
+            var newItem = products.Where(p => p.Price == 50).Select((p, Index) => new { Id = p.Id, Title = p.Name, Sequence = Index, Multi = p.Id * Index });
+            //SelectMany
+            var colors = products.SelectMany(p => p.Colors).ToList();
+
+
+            //var oneTothreeItem = products.Take(3).ToList();
+            var oneTothreeItem = products.TakeWhile(p => p.Price >50).ToList();
+            //var threetosixItem = products.Skip(3).ToList();
+            var threetosixItem = products.SkipWhile(p => p.Price > 50).ToList();
+
+            var firstProduct = products.FirstOrDefault();
+            var lastProduct = products.LastOrDefault();
+            var single = products.SingleOrDefault(s => s.Name == "Mouse");
+            var isKeyExists = products.Exists(s => s.Name == "Keyborad");
+
+            //var onlyNames = products.Select(p => p.Name).ToList();
+            var CammString = products.Select(p => p.Name).ToArray().Aggregate((a,b) => a + " , " +b);
 
             foreach (var product in products)
             {
                 Console.WriteLine($"{product.Id} - {product.Name} - {product.Price} - {product.Location}");
             }
-
 
         }
 

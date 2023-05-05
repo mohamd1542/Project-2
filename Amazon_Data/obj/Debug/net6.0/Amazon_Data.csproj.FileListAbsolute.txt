@@ -1,0 +1,15 @@
+D:\source\repos\AmazonApp\Amazon_Data\bin\Debug\net6.0\Amazon_Data.deps.json
+D:\source\repos\AmazonApp\Amazon_Data\bin\Debug\net6.0\Amazon_Data.dll
+D:\source\repos\AmazonApp\Amazon_Data\bin\Debug\net6.0\Amazon_Data.pdb
+D:\source\repos\AmazonApp\Amazon_Data\bin\Debug\net6.0\Amazon_Domain.dll
+D:\source\repos\AmazonApp\Amazon_Data\bin\Debug\net6.0\Amazon_Domain.pdb
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.AssemblyInfo.cs
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.csproj.CopyComplete
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.dll
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\refint\Amazon_Data.dll
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\Amazon_Data.pdb
+D:\source\repos\AmazonApp\Amazon_Data\obj\Debug\net6.0\ref\Amazon_Data.dll

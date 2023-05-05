@@ -1,0 +1,12 @@
+D:\source\repos\AmazonApp\Amazon_Domain\bin\Debug\net6.0\Amazon_Domain.deps.json
+D:\source\repos\AmazonApp\Amazon_Domain\bin\Debug\net6.0\Amazon_Domain.dll
+D:\source\repos\AmazonApp\Amazon_Domain\bin\Debug\net6.0\Amazon_Domain.pdb
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.csproj.AssemblyReference.cache
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.AssemblyInfoInputs.cache
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.AssemblyInfo.cs
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.csproj.CoreCompileInputs.cache
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.dll
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\refint\Amazon_Domain.dll
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\Amazon_Domain.pdb
+D:\source\repos\AmazonApp\Amazon_Domain\obj\Debug\net6.0\ref\Amazon_Domain.dll
